@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 ### About me
 
 - 👀 I’m interested in Data Analysis and Social Sciences 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Science at @Ironhack Paris
 - 📫 How to reach me :  __angelasalgadob@gmail.com__
 - ⚡ Fun-Fact: I used to play saxophone in a salsa orchestra
 

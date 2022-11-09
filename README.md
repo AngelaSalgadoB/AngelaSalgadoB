@@ -31,8 +31,8 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> 
 
-- Data Wrangling
-- Data viz & business intelligence
+- Data Wrangling.
+- Data Viz and Business Intelligence.
 - Classification and Prediction Machine Learning.
 
 ### Programming languages
